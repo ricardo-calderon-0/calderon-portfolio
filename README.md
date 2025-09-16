@@ -8,11 +8,7 @@ The repository is organized into subfolders by project or paper:
 
 - **Data Analysis** – Exploratory and applied analyses using real-world datasets (e.g., economic data, disaster impacts, library usage).
 
-- **Machine Learning** – Implementations of models (regressions, CNNs, custom architectures) with attention to reproducibility, performance, and interpretability.
-
 - **Signal Processing** – Research on electromyography (EMG) data, prosthetic control, and advanced filtering techniques.
-
-- **Papers & Writeups** – White papers, comment papers, and reports documenting findings, methods, and broader insights.
 
 Each folder contains its own README with background, methodology, results, and references.
 
